@@ -12,7 +12,7 @@ Simply open `index.html` in any modern web browser. No installation or server re
 - **Add Adventures** — name, country, category, priority, target year, and notes
 - **Mark Complete** — tick off adventures with a satisfying confetti celebration 🎉
 - **Edit & Delete** — full CRUD management for every item
-- **localStorage** — all data persists automatically between sessions
+- **local Storage** — all data persists automatically between sessions
 
 ### Views
 - **Dashboard** — stats overview, progress bar, recent adventures, category breakdown
