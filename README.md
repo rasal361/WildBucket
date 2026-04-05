@@ -1,6 +1,6 @@
 # 🏕 WildBucket — Adventure Bucket List Tracker
 
-A beautifully crafted, fully offline adventure bucket list tracker built with pure HTML, CSS, and JavaScript.
+A beautifully crafted, fully offline adventure bucket list tracker built with pure HTML, CSS and JavaScript.
 
 ## 🚀 How to Run
 
